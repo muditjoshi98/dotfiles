@@ -1,0 +1,143 @@
+#################################
+#	Saberto Polybar		#
+#       --Mudit Joshi--		#
+#################################
+
+[colors]
+background = ${xrdb:color0:#222}
+foreground = ${xrdb:color7:#222}
+other = ${xrdb:color6:#222}
+primary = ${xrdb:color1:#222}
+secondary = ${xrdb:color3:#222}
+alert = ${xrdb:color2:#222}
+
+
+[bar/saberto]
+width = 100%
+height = 23
+fixed-center = true
+line-size = 2
+background = ${colors.background}
+foreground = ${colors.foreground}
+module-margin = 1
+
+font-0 = Noto Sans:style=Bold:pixelsize=10
+font-1 = Font Awesome 5 Free Regular:pixelsize=10
+font-2 = Font Awesome 5 Brands Regular:pixelsize=10
+font-3 = Font Awesome 5 Free Solid:pixelsize=10
+font-4 = Noto Color Emoji:pixelsize=10:scale=10
+
+modules-left = bspwm
+modules-center = active-window
+modules-right = ethernet wifi battery clock
+
+tray-position = right
+tray-padding = 1
+
+locale = en_IN.UTF-8
+cursor-click = pointer
+wm-restack = bspwm
+
+#####################
+#	Modules	    #
+#####################
+[global/wm]
+margin-top = 0
+margin-bottom = 0
+
+
+[module/bspwm]
+type = internal/bspwm
+pin-workspaces = true
+fuzzy-match = true
+
+#ws-icon-0 = Terminal;
+#ws-icon-default = 
+
+format = <label-state>
+
+#label-focused = %icon%
+label-focused-foreground = ${colors.secondary}
+label-focused-background = ${colors.primary}
+label-focused-underline = ${colors.foreground}
+label-focused-padding = 1
+
+label-urgent-background = ${colors.alert}
+label-urgent-underline = ${colors.foreground}
+label-urgent-padding = 1
+
+label-occupied-padding = 1
+label-occupied-foreground = ${colors.other}
+
+label-empty-foreground = ${colors.primary}
+label-empty-padding = 1
+
+#label-separator = | 
+
+
+[module/clock]
+type = internal/date
+label-padding = 1
+date = %a, %d %b %H:%M
+
+
+[module/active-window]
+type = internal/xwindow
+format = <label>
+format-foreground = ${colors.secondary}
+label-maxlen = 50
+
+
+[module/battery]
+type = internal/battery
+battery = BAT1
+adapter = ACAD
+full-at = 100
+poll-interval = 5
+
+format-charging = <animation-charging> <label-charging>
+format-discharging = <ramp-capacity> <label-discharging>
+format-full =   <label-full>
+format-full-foreground = ${colors.secondary}
+
+ramp-capacity-font = 1
+ramp-capacity-0 = 
+ramp-capacity-0-foreground = ${colors.alert}
+ramp-capacity-1 = 
+ramp-capacity-1-foreground = ${colors.other}
+ramp-capacity-2 = 
+ramp-capacity-3 = 
+ramp-capacity-4 = 
+ramp-capacity-4-foreground = ${colors.secondary}
+
+animation-charging-0 = 
+animation-charging-1 = 
+animation-charging-2 = 
+animation-charging-3 = 
+animation-charging-4 = 
+animation-charging-framerate = 400
+
+
+[module/network-abs]
+type = internal/network
+accumulate-stats = true
+unknown-as-up = true
+
+
+[module/ethernet]
+inherit = module/network-abs
+interface = enp7s0
+label-connected =   %downspeed:6% %upspeed:6%
+
+
+[module/wifi]
+inherit = module/network-abs
+interface = wlp19s0
+label-connected =  %downspeed:6% %upspeed:6%
+
+
+[module/bluetoothctl]
+type = custom/script
+exec = ~/.config/polybar/scripts/bluetoothctl.sh
+tail = true
+click-left = ~/.config/polybar/scripts/bluetoothctl.sh --toggle &

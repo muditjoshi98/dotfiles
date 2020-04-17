@@ -1,0 +1,18 @@
+[Base]
+; Light green on Dark Blue background
+main_fg                               = 8AF9F7
+secondary_fg                          = FFFFFF
+main_bg                               = 191A2A
+sidebar_and_player_bg                 = 191A2A
+cover_overlay_and_shadow              = 000000
+indicator_fg_and_button_bg            = 8AF9F7
+pressing_fg                           = FF3333
+slider_bg                             = 333651
+sidebar_indicator_and_hover_button_bg = 28BBC6
+scrollbar_fg_and_selected_row_bg      = 2D4682
+pressing_button_fg                    = FFFFFF
+pressing_button_bg                    = A4B3E3
+selected_button                       = 28BBC6
+miscellaneous_bg                      = 333651
+miscellaneous_hover_bg                = A4B3E3
+preserve_1                            = FFFFFF
