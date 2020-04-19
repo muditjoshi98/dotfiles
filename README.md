@@ -28,6 +28,8 @@ Use GNU Stow for setting up configurations...
 
 More details on stow refer to [this blog](https://alexpearce.me/2016/02/managing-dotfiles-with-stow/).
 
+For more details on installation and program setup refer my [ArchDocs](https://github.com/muditjoshi98/ArchDocs)
+
 ### Few more screenshots
 
 <h4 align=center>
