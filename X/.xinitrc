@@ -37,8 +37,8 @@ fi
 
 xautolock -time 5 -locker "slock & sleep 2 && xset dpms force off" -corners +-00 -cornerdelay 3 -cornerredelay 120 -detectsleep &
 libinput-gestures-setup start &
-autocutsel -fork &
-autocutsel -selection PRIMARY -fork &
+#autocutsel -fork &
+#autocutsel -selection PRIMARY -fork &
 udiskie -As -f "st -e ranger" &
 unclutter &
 numlockx &

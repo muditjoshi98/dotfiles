@@ -19,10 +19,11 @@ man() {
         command man "$@"
 }
 
+# Set up Node Version Manager
+#source /usr/share/nvm/init-nvm.sh
 
 #Environment Variables
 export EDITOR=nvim
-
 
 #Aliases
 alias diff='diff --color=auto'
@@ -39,13 +40,6 @@ alias df='df -h'
 alias du='du -ch'
 alias sudo='sudo '
 alias r='ranger'
-alias ra='ranger --cmd="set show_hidden true"'
-#alias vim='nvim'
+alias vim='nvim'
 alias vol='pulsemixer'
-
-
-#Clipmenu variables
-export CM_LAUNCHER=rofi
-export CM_MAX_CLIPS=50
-
-
+alias rm='rm -i'

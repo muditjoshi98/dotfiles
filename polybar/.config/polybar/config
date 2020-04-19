@@ -100,7 +100,7 @@ full-at = 100
 poll-interval = 5
 
 format-charging = <animation-charging> <label-charging>
-format-charging-foreground = ${colors.other}
+#format-charging-foreground = ${colors.other}
 format-discharging = <ramp-capacity> <label-discharging>
 format-full =   <label-full>
 format-full-foreground = #00FF00

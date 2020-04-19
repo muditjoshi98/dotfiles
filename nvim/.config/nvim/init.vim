@@ -23,6 +23,9 @@ syntax on
 set termguicolors
 set number
 let python_highlight_all = 1
+set tabstop=4
+set shiftwidth=4
+
 
 " ColorScheme
 colorscheme purify
