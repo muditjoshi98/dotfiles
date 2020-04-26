@@ -1,0 +1,553 @@
+Nov 30 16:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 16:40 : exception: Failed to open '/home/joshi_ji/.mpd/mpdstate': No such file or directory
+Nov 30 16:40 : update: added /Sunflower.mkv
+Nov 30 16:40 : exception: Failed to access /home/joshi_ji/.mozilla/firefox/cz5ljfco.default/lock: No such file or directory
+Nov 30 16:40 : update: added /Sunflower.opus
+Nov 30 16:40 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_hook: No such file or directory
+Nov 30 16:40 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_install: No such file or directory
+Nov 30 16:40 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sd-plymouth.initcpio_install: No such file or directory
+Nov 30 16:40 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/arch-logo.png: No such file or directory
+Nov 30 16:40 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-quit.service.in.patch: No such file or directory
+Nov 30 16:40 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.path: No such file or directory
+Nov 30 16:40 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-0.9.4.tar.xz: No such file or directory
+Nov 30 16:40 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-deactivate.service: No such file or directory
+Nov 30 16:40 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lightdm-plymouth.service: No such file or directory
+Nov 30 16:40 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lxdm-plymouth.service: No such file or directory
+Nov 30 16:40 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.service: No such file or directory
+Nov 30 16:40 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sddm-plymouth.service: No such file or directory
+Nov 30 16:40 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/slim-plymouth.service: No such file or directory
+Nov 30 16:40 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_install: No such file or directory
+Nov 30 16:40 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_hook: No such file or directory
+Nov 30 16:40 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/gdm-plymouth.service: No such file or directory
+Nov 30 16:40 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-update-initrd.patch: No such file or directory
+Nov 30 16:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 16:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 16:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 16:48 : client: [0] opened from 127.0.0.1:40150
+Nov 30 16:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 16:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 16:51 : client: [0] closed
+Nov 30 16:51 : client: [1] opened from 127.0.0.1:40170
+Nov 30 16:53 : client: [1] closed
+Nov 30 16:54 : client: [2] opened from 127.0.0.1:40186
+Nov 30 16:54 : client: [2] closed
+Nov 30 16:54 : client: [3] opened from 127.0.0.1:40188
+Nov 30 16:54 : client: [3] closed
+Nov 30 16:54 : player: played "Sunflower.mkv"
+Nov 30 16:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 16:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 16:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 16:55 : client: [0] opened from 127.0.0.1:40196
+Nov 30 16:55 : client: [0] closed
+Nov 30 16:55 : player: played "Sunflower.mkv"
+Nov 30 16:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 16:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 16:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 16:58 : ffmpeg/matroska,webm: File is broken, keyframes not correctly marked!
+Nov 30 16:58 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Nov 30 16:59 : player: played "Sunflower.mkv"
+Nov 30 17:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 17:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 17:07 : client: [0] opened from [::1]:44044
+Nov 30 17:07 : client: [0] closed
+Nov 30 17:07 : client: [1] opened from [::1]:44046
+Nov 30 17:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 17:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 17:08 : client: [1] closed
+Nov 30 17:08 : player: played "Sunflower.mkv"
+Nov 30 17:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 17:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 17:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 17:08 : ffmpeg/matroska,webm: File is broken, keyframes not correctly marked!
+Nov 30 17:08 : player: played "Sunflower.mkv"
+Nov 30 17:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 17:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 17:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 17:12 : client: [0] opened from [::1]:44598
+Nov 30 17:12 : ffmpeg/matroska,webm: File is broken, keyframes not correctly marked!
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.mozilla/firefox/cz5ljfco.default/lock: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sd-plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/arch-logo.png: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-quit.service.in.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.path: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-0.9.4.tar.xz: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-deactivate.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lightdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lxdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sddm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/slim-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/gdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-update-initrd.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.mozilla/firefox/cz5ljfco.default/lock: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sd-plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/arch-logo.png: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-quit.service.in.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.path: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-0.9.4.tar.xz: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-deactivate.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lightdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lxdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sddm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/slim-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/gdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-update-initrd.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.mozilla/firefox/cz5ljfco.default/lock: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sd-plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/arch-logo.png: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-quit.service.in.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.path: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-0.9.4.tar.xz: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-deactivate.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lightdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lxdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sddm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/slim-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/gdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-update-initrd.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.mozilla/firefox/cz5ljfco.default/lock: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sd-plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/arch-logo.png: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-quit.service.in.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.path: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-0.9.4.tar.xz: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-deactivate.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lightdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lxdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sddm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/slim-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/gdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-update-initrd.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.mozilla/firefox/cz5ljfco.default/lock: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sd-plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/arch-logo.png: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-quit.service.in.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.path: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-0.9.4.tar.xz: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-deactivate.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lightdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lxdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sddm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/slim-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/gdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-update-initrd.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.mozilla/firefox/cz5ljfco.default/lock: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sd-plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/arch-logo.png: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-quit.service.in.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.path: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-0.9.4.tar.xz: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-deactivate.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lightdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lxdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sddm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/slim-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/gdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-update-initrd.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.mozilla/firefox/cz5ljfco.default/lock: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sd-plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/arch-logo.png: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-quit.service.in.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.path: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-0.9.4.tar.xz: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-deactivate.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lightdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lxdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sddm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/slim-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/gdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-update-initrd.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.mozilla/firefox/cz5ljfco.default/lock: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sd-plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/arch-logo.png: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-quit.service.in.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.path: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-0.9.4.tar.xz: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-deactivate.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lightdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lxdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sddm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/slim-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/gdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-update-initrd.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.mozilla/firefox/cz5ljfco.default/lock: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sd-plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/arch-logo.png: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-quit.service.in.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.path: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-0.9.4.tar.xz: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-deactivate.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lightdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lxdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sddm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/slim-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/gdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-update-initrd.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.mozilla/firefox/cz5ljfco.default/lock: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sd-plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/arch-logo.png: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-quit.service.in.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.path: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-0.9.4.tar.xz: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-deactivate.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lightdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lxdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sddm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/slim-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/gdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-update-initrd.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.mozilla/firefox/cz5ljfco.default/lock: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sd-plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/arch-logo.png: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-quit.service.in.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.path: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-0.9.4.tar.xz: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-deactivate.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lightdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lxdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sddm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/slim-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/gdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-update-initrd.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.mozilla/firefox/cz5ljfco.default/lock: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sd-plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/arch-logo.png: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-quit.service.in.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.path: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-0.9.4.tar.xz: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-deactivate.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lightdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lxdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sddm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/slim-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/gdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-update-initrd.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.mozilla/firefox/cz5ljfco.default/lock: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sd-plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/arch-logo.png: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-quit.service.in.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.path: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-0.9.4.tar.xz: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-deactivate.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lightdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lxdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sddm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/slim-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/gdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-update-initrd.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.mozilla/firefox/cz5ljfco.default/lock: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sd-plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/arch-logo.png: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-quit.service.in.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.path: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-0.9.4.tar.xz: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-deactivate.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lightdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lxdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sddm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/slim-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/gdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-update-initrd.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.mozilla/firefox/cz5ljfco.default/lock: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sd-plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/arch-logo.png: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-quit.service.in.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.path: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-0.9.4.tar.xz: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-deactivate.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lightdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lxdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sddm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/slim-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/gdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-update-initrd.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.mozilla/firefox/cz5ljfco.default/lock: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sd-plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/arch-logo.png: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-quit.service.in.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.path: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-0.9.4.tar.xz: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-deactivate.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lightdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lxdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sddm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/slim-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/gdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-update-initrd.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.mozilla/firefox/cz5ljfco.default/lock: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sd-plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/arch-logo.png: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-quit.service.in.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.path: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-0.9.4.tar.xz: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-deactivate.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lightdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lxdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sddm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/slim-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/gdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-update-initrd.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.mozilla/firefox/cz5ljfco.default/lock: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sd-plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/arch-logo.png: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-quit.service.in.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.path: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-0.9.4.tar.xz: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-deactivate.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lightdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lxdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sddm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/slim-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/gdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-update-initrd.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.mozilla/firefox/cz5ljfco.default/lock: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sd-plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/arch-logo.png: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-quit.service.in.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.path: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-0.9.4.tar.xz: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-deactivate.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lightdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lxdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sddm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/slim-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/gdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-update-initrd.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.mozilla/firefox/cz5ljfco.default/lock: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sd-plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/arch-logo.png: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-quit.service.in.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.path: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-0.9.4.tar.xz: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-deactivate.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lightdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lxdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sddm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/slim-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/gdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-update-initrd.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.mozilla/firefox/cz5ljfco.default/lock: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sd-plymouth.initcpio_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/arch-logo.png: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-quit.service.in.patch: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.path: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-0.9.4.tar.xz: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-deactivate.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lightdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/lxdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-start.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/sddm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/slim-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_install: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth.encrypt_hook: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/gdm-plymouth.service: No such file or directory
+Nov 30 17:12 : exception: Failed to access /home/joshi_ji/.archbox/softs/AUR/plymouth/src/plymouth-update-initrd.patch: No such file or directory
+Nov 30 17:12 : client: [0] closed
+Nov 30 17:13 : player: played "Sunflower.mkv"
+Nov 30 22:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 22:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 22:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 22:34 : ffmpeg/matroska,webm: File is broken, keyframes not correctly marked!
+Nov 30 22:34 : client: [0] opened from [::1]:57628
+Nov 30 22:34 : ffmpeg/matroska,webm: File is broken, keyframes not correctly marked!
+Nov 30 22:35 : client: [0] closed
+Nov 30 22:35 : player: played "Sunflower.mkv"
+Dec 06 18:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 18:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 18:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 18:53 : ffmpeg/matroska,webm: File is broken, keyframes not correctly marked!
+Dec 06 18:53 : client: [0] opened from [::1]:56746
+Dec 06 18:53 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 06 18:53 : client: [0] closed
+Dec 06 18:53 : player: played "Sunflower.mkv"
+Dec 06 18:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 18:56 : client: [0] opened from [::1]:56770
+Dec 06 18:56 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:56 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 18:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : client: [0] closed
+Dec 06 18:57 : player: played "Sunflower.opus"
+Dec 06 18:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 18:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 18:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 18:57 : client: [0] opened from [::1]:56774
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonLock: No such file or directory
+Dec 06 18:57 : exception: Failed to access /home/joshi_ji/.config/google-chrome/SingletonCookie: No such file or directory
+Dec 06 18:58 : client: [0] closed
+Dec 06 18:58 : client: [1] opened from [::1]:56776
+Dec 06 18:58 : client: [1] closed
+Dec 06 18:58 : player: played "Sunflower.opus"
+Dec 07 11:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 07 11:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 07 11:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 07 11:50 : player: played "Sunflower.opus"
+Dec 08 22:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 08 22:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 08 22:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 08 22:55 : client: [0] opened from [::1]:41188
+Dec 08 22:55 : client: [1] opened from 127.0.0.1:53724
+Dec 08 22:55 : client: [0] closed
+Dec 08 22:56 : player: played "Sunflower.opus"
+Dec 08 22:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 08 22:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 08 22:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 08 22:56 : client: [0] opened from [::1]:41208
+Dec 08 22:56 : client: [1] opened from 127.0.0.1:53744
+Dec 08 22:56 : client: [0] closed
+Dec 08 22:56 : player: played "Sunflower.opus"
+Dec 08 22:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 08 22:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 08 22:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 08 22:58 : client: [0] opened from [::1]:41242
+Dec 08 22:58 : client: [1] opened from 127.0.0.1:53778
+Dec 08 22:58 : client: [0] closed
+Dec 08 22:58 : player: played "Sunflower.opus"
+Dec 08 22:58 : player: played "Sunflower.mkv"

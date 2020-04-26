@@ -1,0 +1,24 @@
+configuration {
+
+	theme: "./colors.rasi";
+	
+	modi: "run,drun";
+	width: 100;
+	lines: 2;
+	bw: 0;
+	location: 1;
+	line-margin: 0;
+	line-padding: 1;
+	separator-style: "none";
+	columns: 8;
+	disable-history: true;
+	hide-scrollbar: true;
+	show-icons: true;
+	font: "JetBrains Mono Medium 10";
+	terminal: "st";
+	kb-row-select: "Tab";
+	kb-row-tab: "";
+
+}
+
+/* vim:ft=css

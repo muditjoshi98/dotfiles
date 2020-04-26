@@ -1,0 +1,25 @@
+#!/bin/sh
+
+TMP_DIR=/tmp/weather
+LAST_UPDATE_FILE=$TMP_DIR/last_update
+METAR_FILE=$TMP_DIR/metar_data
+ICAO_CODE="VABB"
+
+if [ ! -z "$1" ] ; then
+	ICAO_CODE="$1"
+fi
+
+mkdir $TMP_DIR > /dev/null 2>&1 # create directory if not already exists
+cat /dev/null >> $LAST_UPDATE_FILE # create timestamp file if
+
+read -r LAST_UPDATE_TIMESTAMP LAST_ICAO_CODE < $LAST_UPDATE_FILE
+CURRENT_TIMESTAMP=$(date +%y%m%d%H%M)
+
+if [ ! "$ICAO_CODE" = "$LAST_ICAO_CODE" ] ||
+	[ "$CURRENT_TIMESTAMP" -gt "$((LAST_UPDATE_TIMESTAMP + 120))" ] ; then
+		echo "$CURRENT_TIMESTAMP $ICAO_CODE" > $LAST_UPDATE_FILE
+		curl -s -f -o "$METAR_FILE" \
+			"http://tgftp.nws.noaa.gov/data/observations/metar/decoded/$ICAO_CODE.TXT"
+fi
+
+cat $METAR_FILE
